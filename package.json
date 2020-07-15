@@ -1,0 +1,22 @@
+{
+  "name": "@james-gibson/ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-gibson/ast.git"
+  },
+  "author": "James Gibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james-gibson/ast/issues"
+  },
+  "homepage": "https://github.com/james-gibson/ast#readme",
+  "devDependencies": {
+    "jscodeshift": "^0.10.0"
+  }
+}
